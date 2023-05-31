@@ -1,0 +1,5 @@
+_P	good very very yes :-)
+A	very good.
+_N	<b>not</b> good
+_N	bad!!!
+_O	very, very bad  very yes"::
